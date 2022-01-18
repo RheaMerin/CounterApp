@@ -24,7 +24,8 @@ body{
   font-size: 160px;
   line-height: 200px ;
   align-items: center;
-  margin: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
   border-radius: 2rem;
   font-family:Poppins;
   background-color:#ffffff;
